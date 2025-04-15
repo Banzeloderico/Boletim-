@@ -24,7 +24,7 @@ Não é necessário instalar manualmente o fpdf, pois o próprio script se encar
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/boletim-escolar.git
+https://github.com/Banzeloderico/Boletim-.git
 cd boletim-escolar
 ▶️ Como Executar
 Basta rodar o script no terminal:
@@ -32,7 +32,7 @@ Basta rodar o script no terminal:
 bash
 Copiar
 Editar
-python boletim_escolar.py
+python boletim.py
 Você será guiado por um processo interativo no terminal para inserir as informações necessárias. Após isso, um boletim em PDF será gerado automaticamente no mesmo diretório do script.
 
 📄 Exemplo de Saída
